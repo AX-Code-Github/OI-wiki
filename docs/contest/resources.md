@@ -94,6 +94,7 @@ author: Suyun514, ChungZH, Enter-tainer, StudyingFather, Konano, JulieSigtuna, G
     -   《CCF 中学生计算机程序设计 - 专业篇》（未出）
 -   深入浅出系列
     -   《深入浅出程序设计竞赛 - 基础篇》- 洛谷网校教研组
+    -   《深入浅出程序设计竞赛 - 进阶篇》- 洛谷网校教研组
 -   一本通系列
     -   《信息学奥赛一本通》- 董永建
     -   《信息学奥赛一本通 - 提高篇》- 黄新军，董永建
